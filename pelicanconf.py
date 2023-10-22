@@ -1,6 +1,6 @@
 AUTHOR = 'QualiThree'
-SITENAME = 'Getting Started With Dev'
-SITEURL = ''
+SITENAME = 'Getting Started With Python'
+SITEURL = 'python.gettingstartedwith.dev'
 
 PATH = 'content'
 
