@@ -1,1 +1,4 @@
-# getting-started-with-python
+running the server:
+```shell
+pelican -r -l
+```
